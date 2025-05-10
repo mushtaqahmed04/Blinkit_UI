@@ -1,9 +1,10 @@
+import 'package:blinkit/Respository/screens/Home/homescreen.dart';
 import 'package:flutter/material.dart';
 import 'package:blinkit/Respository/screens/splash/splashscreen.dart';
 import 'package:blinkit/domain/constant/Appcolor.dart';
 
 void main (){
-  runApp(const MyApp());
+  runApp(Homescreen());
 }
 
 class MyApp extends StatelessWidget {
