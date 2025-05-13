@@ -4,7 +4,7 @@ import 'package:blinkit/Respository/screens/splash/splashscreen.dart';
 import 'package:blinkit/domain/constant/Appcolor.dart';
 
 void main (){
-  runApp(Homescreen());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
